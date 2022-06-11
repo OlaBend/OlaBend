@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @OlaBend
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a **Computer Science and Econometrics** student at the **University of Gdańsk**. 
+In my free time I like to play sports, especially tennis. I also love travelling.
+
+## My skills and experience
+
+### Languages and tools
+
+#### Languages
+<img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+## How to reach me? 
+
+<a href="https://www.facebook.com/ola.ben13/">
+    <img height="45" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/>
+</a>
+
+### Languages I speak
+<img height="45" src="https://cdn-icons-png.flaticon.com/128/197/197529.png"/> <img height="45" src="https://cdn-icons-png.flaticon.com/128/197/197374.png"/>
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=OlaBend) [![GitHub followers](https://img.shields.io/github/followers/OlaBend.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/OlaBend?tab=followers)
 
 <!---
 OlaBend/OlaBend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
