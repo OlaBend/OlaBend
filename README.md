@@ -6,8 +6,7 @@ In my free time I like to play sports, especially tennis. I also love travelling
 ### Languages and tools
 
 #### Languages
-<img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons"></a>
-
+<img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://skills.thijs.gg/icons?i=js,html,css,wasm(https://skills.thijs.gg)"/>
 ## How to reach me? 
 
 <a href="https://www.facebook.com/ola.ben13/">
