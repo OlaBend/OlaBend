@@ -12,7 +12,9 @@ In my free time I like to play sports, especially tennis. I also love travelling
 <a href="https://www.facebook.com/ola.ben13/">
     <img height="45" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/>
 </a>
-
+<a href="https://www.linkedin.com/in/alebend/">
+    <img height=35 src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+</a>
 
 ### Languages I speak
 <img height="45" src="https://cdn-icons-png.flaticon.com/128/197/197529.png"/> <img height="45" src="https://cdn-icons-png.flaticon.com/128/197/197374.png"/>
